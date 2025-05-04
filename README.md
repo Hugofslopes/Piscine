@@ -7,4 +7,7 @@
 </p>
 
 ## Summary
-<p> Int htis repository you will find all the exercises that i did to complet the C piscine on 42 School. It was a really good experience and a rally diferent way to learn.
+<p>In this repository, you will find all the exercises I completed to finish the C Piscine at 42 School.</p> 
+<p>It was a really good experience and a very different way to learn. I came from a more 'standard' way of learning, like in college and university, where we have specific books to study from and teachers instructing us.</p> 
+<p>It was great to discover that learning from the person next to you is also a really effective way to do it. Being constantly evaluated by others and explaining your code helps you learn a lot more about it.</p>
+<p>Evaluating others also helps you a lot in learning a new subject or even discussing other ways to reach the same goal.</p>
